@@ -1,0 +1,3 @@
+/home/thylane/complexite/final_version/final_version/scrabble-etu/build/CMakeFiles/test_board.dir
+/home/thylane/complexite/final_version/final_version/scrabble-etu/build/CMakeFiles/edit_cache.dir
+/home/thylane/complexite/final_version/final_version/scrabble-etu/build/CMakeFiles/rebuild_cache.dir
