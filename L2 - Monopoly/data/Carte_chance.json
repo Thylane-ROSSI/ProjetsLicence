@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "action": "Avancez jusqu'à la case Départ. Recevez 200€"
+    }, 
+    {
+        "id":2,
+        "action": "Vous êtes libéré de prison. Cette carte peut être conservée jusqu'à ce qu'elle soit utilisée. "
+    }, 
+    {
+        "id":3,
+        "action": "Remboursement d'impôt. Recevez 30€."
+    }, 
+    {
+        "id":4,
+        "action": "Suite à une erreur de l'hôpital, vous perdez vos deux jambes mais vous recevez 100€ et un bon d'achat pour un fauteuil roulant !"
+    }, 
+    {
+        "id":5,
+        "action": "Payez les frais de scolarité de 50€."
+    }, 
+    {
+        "id":6,
+        "action": "Recevez votre salaire de 100€."
+    }, 
+    {
+        "id":7,
+        "action": "Pendant une promenade au parc de la Tête d'or vous trouvez 50€ par terre."
+    }, 
+    {
+        "id":8,
+        "action": "Vous faites un braquage à main armée sans vous faire attraper (bien joué), recevez 350€."
+    }, 
+    {
+        "id":9,
+        "action": "Aller à nautibus_TP5. Si la propriété n'est pas achetée, vous pouvez l'acheter. Sinon, vous devez payer le loyer au propriétaire."
+    }, 
+    {
+        "id":10,
+        "action": "Vous faites trop de bruit à la BU. Payer 15€."
+    }, 
+    {
+        "id":11,
+        "action": "Vous vous êtes cassé une dent en mangeant au Crous, payer les frais de dentiste 75€. "
+    }, 
+    {
+        "id":12,
+        "action": "Vous avez loupé pour la 16ème fois le code de la route, payer 30€."
+    }, 
+    {
+        "id":13,
+        "action": "Vous soudoyez un prof pour avoir 18 au lieu de 4. Payer 50€."
+    }, 
+    {
+        "id":14,
+        "action": "C'est votre anniversaire. Recevez 100€."
+    }, 
+    {
+        "id":15,
+        "action": "Vous vous êtes fait voler votre passeport, allez à la mairie pour le refaire, payer 50€."
+    }, 
+    {
+        "id":16,
+        "action": "Félicitation ! Vous avez gagner un concours, recevez 100€ pour payer vos prochains billets d'avion."
+    }
+]

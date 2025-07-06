@@ -1,0 +1,67 @@
+[
+    {
+        "id":1,
+        "action": "Erreur de banque en votre faveur. Recevez 200€."
+    },
+    {
+        "id":2,
+        "action": "La banque vous verse un dividende de 50€."
+    },
+    {
+        "id":3,
+        "action": "Allez en prison. Ne passez pas par la case Départ. Ne recevez pas 200€."
+    },
+    {
+        "id":4,
+        "action": "Avancez jusqu'à la case Départ. Recevez 200€."
+    },
+    {
+        "id":5,
+        "action": "Héritage. Recevez 100€."
+    },
+    {
+        "id":6,
+        "action": "Vous avez eu un accident de voiture. Payez 150€"
+    },
+    {
+        "id":7,
+        "action": "Vous êtes libéré de prison. Cette carte peut être conservée jusqu'à ce qu'elle soit utilisée."
+    }, 
+    {
+        "id":8,
+        "action": "Aller à la gare université lyon 1 si vous passez par la case départ recevez 200€. Si la gare n'est pas achetée, vous pouvez l'acheter.Sinon, vous devez payer le loyer au propriétaire."
+    },
+    {
+        "id":9,
+        "action": "La vente de votre stock vous rapporte 50€."
+    },
+    {
+        "id":10,
+        "action": "Vous avez amené votre chien chez le vétérinaire. Payer 75€."
+    },
+    {
+        "id":11,
+        "action": "Recevez votre intérêt sur l'obligation 25€."
+    },
+    {
+        "id":12,
+        "action": "Payer les frais d'hôpital de 100€."
+    },
+    {
+        "id":13,
+        "action": "Vous avez gagné le deuxième prix dans un concours de beauté. Recevez 10€."
+    },
+    {
+        "id":14,
+        "action": "Remportez le premier prix en mots croisés. Recevez 100€."
+    },
+    {
+        "id":15,
+        "action": "Aller à déambu_amphithéâtre_3 si vous passez par la case départ recevez 200€. Si la propriété n'est pas achetée, vous pouvez l'acheter.Sinon, vous devez payer le loyer au propriétaire."
+    },    
+    {
+        "id":16,
+        "action": "C'est l'anniversaire de votre poisson rouge ! Vous lui achetez des croquettes spéciales ! Payer 15€."
+    }
+
+]
