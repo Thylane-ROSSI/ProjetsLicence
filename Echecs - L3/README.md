@@ -39,7 +39,7 @@ L'application dispose d'une interface graphique avec :
 - Mise en évidence des cases accessibles lors de la sélection d'une pièce
 - Des dialogues pour la promotion des pions et l'annonce de fin de partie
 
-![Menu](./Images/menu_echecs.png)
+![Menu](./Images/menu_echecs.jpg)
 *Menu*
 
 ## Architecture
