@@ -64,6 +64,3 @@ Le projet utilise plusieurs **patterns de conception** pour organiser le code :
 - **Détection de l'échec et mat** : La vérification des situations d'échec a nécessité de simuler tous les coups possibles.
 - **Conception de l'IA** : L'IA a été développée avec trois niveaux de difficulté, utilisant une approche par évaluation des positions.
 
----
-
-Le rapport complet ainsi que d'autres documents détaillés peuvent être trouvés dans le dossier **`doc`** du projet.
