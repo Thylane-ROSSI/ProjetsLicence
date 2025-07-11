@@ -1,5 +1,8 @@
 # Jeu d'Échecs en Java
 
+![Interface](./Images/Interface.png)
+*Interface du jeu*
+
 ## Introduction
 
 Ce projet implémente un jeu d'échecs en Java, permettant de jouer selon les règles classiques avec une interface graphique intuitive. Les joueurs peuvent jouer contre l'intelligence artificielle (IA) avec trois niveaux de difficulté : facile, moyen, et difficile.
@@ -36,6 +39,9 @@ L'application dispose d'une interface graphique avec :
 - Mise en évidence des cases accessibles lors de la sélection d'une pièce
 - Des dialogues pour la promotion des pions et l'annonce de fin de partie
 
+![Menu](./Images/menu_echecs.png)
+*Menu*
+
 ## Architecture
 
 Le projet utilise plusieurs **patterns de conception** pour organiser le code :
@@ -48,6 +54,9 @@ Le projet utilise plusieurs **patterns de conception** pour organiser le code :
 - **Plateau** : Représente l'échiquier
 - **Piece** et ses sous-classes (Roi, Dame, etc.) : Définissent le comportement des pièces
 - **IA** : Implémente l'intelligence artificielle
+
+![Diagramme](./Images/Diagramme_des_classes_echecs.png)
+*Diagramme des classes*
 
 ## Difficultés Rencontrées
 
