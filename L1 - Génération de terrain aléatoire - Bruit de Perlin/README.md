@@ -2,7 +2,7 @@
 
 Ce projet a été réalisé dans le cadre d'un mini-projet de génération de terrain aléatoire. Il utilise le **bruit de Perlin** pour générer des paysages variés et un jeu où l'objectif est de collecter des pièces tout en évitant les obstacles.
 
-Le projet a été développé avec **Code::Blocks** et utilise la bibliothèque **Grapic**. Pour plus d'informations sur cette bibliothèque, consultez la documentation officielle [ici](http://alexandre.meyer.pages.univ-lyon1.fr/lifami/grapic/).
+Le projet a été développé avec **Code::Blocks** et utilise la bibliothèque **Grapic**. Pour plus d'informations sur cette bibliothèque, consultez la documentation officielle [ici](https://perso.liris.cnrs.fr/alexandre.meyer/grapic/html/).
 
 ## Fonctionnalités du Jeu
 
@@ -13,7 +13,7 @@ Le projet a été développé avec **Code::Blocks** et utilise la bibliothèque 
   - **Niveau 2 : Désert** (2 balles)
   - **Niveau 3 : Neige** (3 balles)
 
-Le jeu est dynamique, avec des mondes générés aléatoirement à l'aide du bruit de Perlin pour créer des paysages réalistes.
+Le jeu est dynamique, avec des mondes générés aléatoirement à l'aide du bruit de Perlin pour créers des paysages réalistes.
 
 ## Images du jeu
 
@@ -70,8 +70,4 @@ Le dessin du monde se fait via la fonction `mondeDraw`. Elle dessine les montagn
 ### 3ème séance : 28/04/2023
 - Développement de la fonction `update` pour gérer le déplacement du personnage.
 - Ajout des règles de jeu et gestion de la collecte des pièces et des balles.
-
----
-
-Merci d'avoir consulté ce projet ! Si vous avez des questions ou des suggestions, n'hésitez pas à me contacter.
 

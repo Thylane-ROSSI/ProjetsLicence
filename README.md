@@ -96,8 +96,6 @@ Voici la [plaquette de présentation de la licence](http://licence-info.univ-lyo
 
 ---
 
----
-
 ## Troisième année : 2024 - 2025
 
 ### Database System (Toronto Metropolitan University)		
